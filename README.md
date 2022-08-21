@@ -11,7 +11,7 @@ conda config --set channel_priority strict
 conda create -c conda-forge --name hsf_tutorial root
 conda activate hsf_tutorial
 root
-It will show like this 
+
  | Welcome to ROOT 6.26/06                        https://root.cern |
   | (c) 1995-2021, The ROOT Team; conception: R. Brun, F. Rademakers |
   | Built for linuxx8664gcc on Aug 06 2022, 08:58:00                 |
